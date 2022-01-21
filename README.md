@@ -18,3 +18,9 @@ Dice can be 1, 2, 3, 4, 5 or 6 for rabbit.
 * Rabbit moves forward by the value of the dice, if dice is 1, 2, 3 or 6. 
 * Rabbit moves backward by the value of the dice, if dice is 4. 
 * Rabbit waits 2 tours, if dice is 5. 
+
+---
+
+### Images
+
+<img src="./app-images/turtle-vs-rabbit-00.png" alt="Image - 3" width="700"/> 
